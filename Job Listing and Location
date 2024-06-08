@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Job Board Admin</title>
+  <style>
+    /* Add your CSS styles here */
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Job Board Admin</h1>
+  </header>
+  
+  <nav>
+    <ul>
+      <li><a href="#">Dashboard</a></li>
+      <li><a href="#">Users</a></li>
+      <li><a href="#">Job Listings</a></li>
+      <li><a href="#">Reported Content</a></li>
+    </ul>
+  </nav>
+  
+  <main>
+    <section>
+      <h2>Dashboard</h2>
+      <!-- Add dashboard content here -->
+    </section>
+    
+    <section>
+      <h2>Users</h2>
+      <!-- Add user management content here -->
+    </section>
+    
+    <section>
+      <h2>Job Listings</h2>
+      <!-- Add job listing management content here -->
+    </section>
+    
+    <section>
+      <h2>Reported Content</h2>
+      <!-- Add reported content management content here -->
+    </section>
+  </main>
+  
+  <footer>
+    <p>&copy; 2024 Job Board Admin. All rights reserved.</p>
+  </footer>
+</body>
+</html>
